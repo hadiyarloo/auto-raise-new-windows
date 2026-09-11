@@ -1,0 +1,7 @@
+{
+  "uuid": "auto-raise-new-windows@ubuntu1804.extension",
+  "name": "Auto Raise New Windows",
+  "description": "Automatically raises and focuses newly created top-level and dialog windows for the active application. (Legacy)",
+  "shell-version": ["3.28", "3.30", "3.32", "3.34", "3.36", "3.38", "40", "41", "42", "43", "44"],
+  "url": "https://github.com/hadiyarloo/auto-raise-new-windows"
+}

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="256" height="256">
+  <!-- Background Window (Inactive) -->
+  <rect x="15" y="15" width="60" height="50" rx="4" fill="#3a3a3a" opacity="0.6"/>
+  <rect x="15" y="15" width="60" height="12" rx="4" fill="#2a2a2a" opacity="0.6"/>
+  
+  <!-- Foreground Window (Raised/Active) -->
+  <rect x="30" y="35" width="55" height="45" rx="4" fill="#2d2d2d"/>
+  <rect x="30" y="35" width="55" height="12" rx="4" fill="#1e1e1e"/>
+  <circle cx="36" cy="41" r="2.5" fill="#ff5f56" />
+  <circle cx="43" cy="41" r="2.5" fill="#ffbd2e" />
+  <circle cx="50" cy="41" r="2.5" fill="#27c93f" />
+  
+  <!-- Upward motion arrow (Centered horizontally at X=57.5, shifted down slightly) -->
+  <path d="M57.5 52 L66 64 L60.5 64 L60.5 74 L54.5 74 L54.5 64 L49 64 Z" fill="#3584e4"/>
+</svg>
